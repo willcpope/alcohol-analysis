@@ -1,32 +1,23 @@
-# average_joe_exotics
+# European Alcohol Analysis
 
-## Chosen Topic
-Visualization of alcohol consumption, alcohol production, alcohol related deaths, traffic related deaths, and wine reviews. We are focusing our data exploration on European countries.
+## Scope
+Data exploration and visualization of alcohol consumption, alcohol production, alcohol related deaths and traffic related deaths in European countries.
 
-The main visualization will be a color map of Europe based on user's selection of base map layer with following data sets:
-* Alcohol consumption
-* Alcohol production
-* Traffic related deaths
+The goal of the analysis is to answer the following questions:
+* How does the consumption of alcohol relate to traffic accidents?
+* Does the rate of alcohol production impact alcohol consumption?
 
-There will be an overlay of bubbles on each country with the radius and color dependent on mean wine review scores for that country. When the bubble is clicked, additional data will be shown for that country.
+![Final Map](images/final.png)
+![Mouse Over](images/mouseover.png)
 
-## Data Set
-We have chosen an existing data set from a previous group project. [Github link to project.](https://github.com/jaime030690/mad_data)
+## Data
+* World Health Organization
+* Wikipedia
 
-### ERD Diagram of Metadata
+## ERD Diagram of Metadata
 ![ERD Diagram](images/metadata.png)
 
-## Inspiration
-
-### Base Layer
-![Base Layer](images/inspiration_1.png)
-
-### Bubble Layer
-![Bubble Layer](images/inspiration_2.png)
-
-### Popup with Data
-![Popup Data](images/inspiration_3.png)
-
-## Sketch of Visualization
-
-![Sketch](images/sketch.jpg)
+## Observations
+* Countries in Eastern Europe tend to have more traffic related deaths than Western Europe. They also consume more alcohol than other countries in the area of interest.
+* Countries in Western Europe produce more alcohol than Eastern Europe.
+* Italy, Spain and France are the largest wine producers in Europe (and the world).
