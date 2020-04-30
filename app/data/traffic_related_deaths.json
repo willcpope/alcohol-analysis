@@ -1,0 +1,1088 @@
+[
+    {
+      "country_name": "Afghanistan", 
+      "fatalities_100K_mv_per_year": 722.4, 
+      "fatalities_100K_people_per_year": 15.5, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Angola", 
+      "fatalities_100K_mv_per_year": 992.0, 
+      "fatalities_100K_people_per_year": 26.9, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Albania", 
+      "fatalities_100K_mv_per_year": 107.2, 
+      "fatalities_100K_people_per_year": 13.6, 
+      "year": 2018
+    }, 
+    {
+      "country_name": "Andorra", 
+      "fatalities_100K_mv_per_year": 7.9, 
+      "fatalities_100K_people_per_year": 7.6, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "United Arab Emirates", 
+      "fatalities_100K_mv_per_year": 62.7, 
+      "fatalities_100K_people_per_year": 18.1, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Argentina", 
+      "fatalities_100K_mv_per_year": 24.3, 
+      "fatalities_100K_people_per_year": 13.6, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Armenia", 
+      "fatalities_100K_mv_per_year": 18.2, 
+      "fatalities_100K_people_per_year": 17.1, 
+      "year": 2018
+    }, 
+    {
+      "country_name": "Antigua and Barbuda", 
+      "fatalities_100K_mv_per_year": 20.0, 
+      "fatalities_100K_people_per_year": 6.7, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Australia", 
+      "fatalities_100K_mv_per_year": 7.4, 
+      "fatalities_100K_people_per_year": 5.6, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "Austria", 
+      "fatalities_100K_mv_per_year": 6.1, 
+      "fatalities_100K_people_per_year": 5.2, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "Azerbaijan", 
+      "fatalities_100K_mv_per_year": 83.0, 
+      "fatalities_100K_people_per_year": 8.7, 
+      "year": 2018
+    }, 
+    {
+      "country_name": "Belgium", 
+      "fatalities_100K_mv_per_year": 9.0, 
+      "fatalities_100K_people_per_year": 5.8, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "Benin", 
+      "fatalities_100K_mv_per_year": 635.6, 
+      "fatalities_100K_people_per_year": 27.5, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "Burkina Faso", 
+      "fatalities_100K_mv_per_year": 328.1, 
+      "fatalities_100K_people_per_year": 30.0, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Bangladesh", 
+      "fatalities_100K_mv_per_year": 1020.6, 
+      "fatalities_100K_people_per_year": 13.6, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Bulgaria", 
+      "fatalities_100K_mv_per_year": 17.2, 
+      "fatalities_100K_people_per_year": 8.3, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Bahrain", 
+      "fatalities_100K_mv_per_year": 14.3, 
+      "fatalities_100K_people_per_year": 5.2, 
+      "year": 2017
+    }, 
+    {
+      "country_name": "Bahamas", 
+      "fatalities_100K_mv_per_year": 36.0, 
+      "fatalities_100K_people_per_year": 13.8, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Bosnia and Herzegovina", 
+      "fatalities_100K_mv_per_year": 76.7, 
+      "fatalities_100K_people_per_year": 15.7, 
+      "year": 2018
+    }, 
+    {
+      "country_name": "Belarus", 
+      "fatalities_100K_mv_per_year": 32.9, 
+      "fatalities_100K_people_per_year": 13.7, 
+      "year": 2018
+    }, 
+    {
+      "country_name": "Belize", 
+      "fatalities_100K_mv_per_year": 26.0, 
+      "fatalities_100K_people_per_year": 24.4, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Bolivia, Plurinational State of", 
+      "fatalities_100K_mv_per_year": 205.2, 
+      "fatalities_100K_people_per_year": 23.2, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Brazil", 
+      "fatalities_100K_mv_per_year": 57.5, 
+      "fatalities_100K_people_per_year": 23.4, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Barbados", 
+      "fatalities_100K_mv_per_year": 16.9, 
+      "fatalities_100K_people_per_year": 6.7, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Bhutan", 
+      "fatalities_100K_mv_per_year": 167.2, 
+      "fatalities_100K_people_per_year": 15.1, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Botswana", 
+      "fatalities_100K_mv_per_year": 91.6, 
+      "fatalities_100K_people_per_year": 23.6, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Central African Republic", 
+      "fatalities_100K_mv_per_year": 4484.4, 
+      "fatalities_100K_people_per_year": 33.6, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "Canada", 
+      "fatalities_100K_mv_per_year": 8.9, 
+      "fatalities_100K_people_per_year": 5.8, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "Switzerland", 
+      "fatalities_100K_mv_per_year": 3.7, 
+      "fatalities_100K_people_per_year": 2.7, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "Chile", 
+      "fatalities_100K_mv_per_year": 51.1, 
+      "fatalities_100K_people_per_year": 12.4, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "China", 
+      "fatalities_100K_mv_per_year": 104.5, 
+      "fatalities_100K_people_per_year": 18.2, 
+      "year": 2018
+    }, 
+    {
+      "country_name": "C\u00f4te d'Ivoire", 
+      "fatalities_100K_mv_per_year": 828.9, 
+      "fatalities_100K_people_per_year": 24.2, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Cameroon", 
+      "fatalities_100K_mv_per_year": 1385.1, 
+      "fatalities_100K_people_per_year": 27.6, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Congo, The Democratic Republic of the", 
+      "fatalities_100K_mv_per_year": null, 
+      "fatalities_100K_people_per_year": 33.7, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "Congo", 
+      "fatalities_100K_mv_per_year": 1063.0, 
+      "fatalities_100K_people_per_year": 26.4, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Cook Islands", 
+      "fatalities_100K_mv_per_year": 40.2, 
+      "fatalities_100K_people_per_year": 24.2, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Colombia", 
+      "fatalities_100K_mv_per_year": 83.3, 
+      "fatalities_100K_people_per_year": 16.8, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Cabo Verde", 
+      "fatalities_100K_mv_per_year": 229.0, 
+      "fatalities_100K_people_per_year": 26.1, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Costa Rica", 
+      "fatalities_100K_mv_per_year": 38.4, 
+      "fatalities_100K_people_per_year": 13.9, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Cuba", 
+      "fatalities_100K_mv_per_year": 133.7, 
+      "fatalities_100K_people_per_year": 7.5, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Cyprus", 
+      "fatalities_100K_mv_per_year": 9.2, 
+      "fatalities_100K_people_per_year": 5.1, 
+      "year": 2018
+    }, 
+    {
+      "country_name": "Czechia", 
+      "fatalities_100K_mv_per_year": 8.6, 
+      "fatalities_100K_people_per_year": 5.9, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "Germany", 
+      "fatalities_100K_mv_per_year": 6.4, 
+      "fatalities_100K_people_per_year": 4.1, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "Djibouti", 
+      "fatalities_100K_mv_per_year": null, 
+      "fatalities_100K_people_per_year": 24.7, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Dominica", 
+      "fatalities_100K_mv_per_year": 44.7, 
+      "fatalities_100K_people_per_year": 15.3, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Denmark", 
+      "fatalities_100K_mv_per_year": 7.2, 
+      "fatalities_100K_people_per_year": 4.0, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "Dominican Republic", 
+      "fatalities_100K_mv_per_year": 94.9, 
+      "fatalities_100K_people_per_year": 29.3, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Algeria", 
+      "fatalities_100K_mv_per_year": 127.8, 
+      "fatalities_100K_people_per_year": 23.8, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Ecuador", 
+      "fatalities_100K_mv_per_year": 183.8, 
+      "fatalities_100K_people_per_year": 20.1, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Egypt", 
+      "fatalities_100K_mv_per_year": 148.7, 
+      "fatalities_100K_people_per_year": 12.8, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Eritrea", 
+      "fatalities_100K_mv_per_year": 2171.5, 
+      "fatalities_100K_people_per_year": 24.1, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Spain", 
+      "fatalities_100K_mv_per_year": 5.8, 
+      "fatalities_100K_people_per_year": 4.1, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "Estonia", 
+      "fatalities_100K_mv_per_year": 7.4, 
+      "fatalities_100K_people_per_year": 3.9, 
+      "year": 2019
+    }, 
+    {
+      "country_name": "Ethiopia", 
+      "fatalities_100K_mv_per_year": 385.7, 
+      "fatalities_100K_people_per_year": 26.7, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "Finland", 
+      "fatalities_100K_mv_per_year": 5.0, 
+      "fatalities_100K_people_per_year": 4.7, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "Fiji", 
+      "fatalities_100K_mv_per_year": 58.9, 
+      "fatalities_100K_people_per_year": 5.8, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "France", 
+      "fatalities_100K_mv_per_year": 8.4, 
+      "fatalities_100K_people_per_year": 5.5, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "Micronesia, Federated States of", 
+      "fatalities_100K_mv_per_year": 24.0, 
+      "fatalities_100K_people_per_year": 1.9, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Gabon", 
+      "fatalities_100K_mv_per_year": 196.4, 
+      "fatalities_100K_people_per_year": 22.9, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "United Kingdom", 
+      "fatalities_100K_mv_per_year": 5.7, 
+      "fatalities_100K_people_per_year": 3.1, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "Georgia", 
+      "fatalities_100K_mv_per_year": 54.0, 
+      "fatalities_100K_people_per_year": 11.8, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Ghana", 
+      "fatalities_100K_mv_per_year": 443.1, 
+      "fatalities_100K_people_per_year": 26.2, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Guinea", 
+      "fatalities_100K_mv_per_year": 1343.7, 
+      "fatalities_100K_people_per_year": 28.2, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "Gambia", 
+      "fatalities_100K_mv_per_year": 998.7, 
+      "fatalities_100K_people_per_year": 29.4, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Guinea-Bissau", 
+      "fatalities_100K_mv_per_year": 751.9, 
+      "fatalities_100K_people_per_year": 27.5, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Greece", 
+      "fatalities_100K_mv_per_year": 12.8, 
+      "fatalities_100K_people_per_year": 9.2, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "Guatemala", 
+      "fatalities_100K_mv_per_year": 114.7, 
+      "fatalities_100K_people_per_year": 19.0, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Guyana", 
+      "fatalities_100K_mv_per_year": 864.4, 
+      "fatalities_100K_people_per_year": 17.3, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Honduras", 
+      "fatalities_100K_mv_per_year": 1021.7, 
+      "fatalities_100K_people_per_year": 17.4, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Croatia", 
+      "fatalities_100K_mv_per_year": 21.1, 
+      "fatalities_100K_people_per_year": 8.1, 
+      "year": 2018
+    }, 
+    {
+      "country_name": "Hungary", 
+      "fatalities_100K_mv_per_year": 20.7, 
+      "fatalities_100K_people_per_year": 7.8, 
+      "year": 2018
+    }, 
+    {
+      "country_name": "Indonesia", 
+      "fatalities_100K_mv_per_year": 36.7, 
+      "fatalities_100K_people_per_year": 12.2, 
+      "year": 2018
+    }, 
+    {
+      "country_name": "India", 
+      "fatalities_100K_mv_per_year": 130.1, 
+      "fatalities_100K_people_per_year": 22.6, 
+      "year": 2018
+    }, 
+    {
+      "country_name": "Ireland", 
+      "fatalities_100K_mv_per_year": 7.5, 
+      "fatalities_100K_people_per_year": 4.1, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "Iran, Islamic Republic of", 
+      "fatalities_100K_mv_per_year": 54.1, 
+      "fatalities_100K_people_per_year": 20.5, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "Iraq", 
+      "fatalities_100K_mv_per_year": 151.2, 
+      "fatalities_100K_people_per_year": 20.2, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Iceland", 
+      "fatalities_100K_mv_per_year": 7.6, 
+      "fatalities_100K_people_per_year": 6.6, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "Israel", 
+      "fatalities_100K_mv_per_year": 10.7, 
+      "fatalities_100K_people_per_year": 4.2, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "Italy", 
+      "fatalities_100K_mv_per_year": 6.3, 
+      "fatalities_100K_people_per_year": 5.6, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "Jamaica", 
+      "fatalities_100K_mv_per_year": 61.7, 
+      "fatalities_100K_people_per_year": 11.5, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Jordan", 
+      "fatalities_100K_mv_per_year": 151.4, 
+      "fatalities_100K_people_per_year": 26.3, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Japan", 
+      "fatalities_100K_mv_per_year": 5.7, 
+      "fatalities_100K_people_per_year": 4.1, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "Kazakhstan", 
+      "fatalities_100K_mv_per_year": 101.4, 
+      "fatalities_100K_people_per_year": 17.6, 
+      "year": 2018
+    }, 
+    {
+      "country_name": "Kenya", 
+      "fatalities_100K_mv_per_year": 640.7, 
+      "fatalities_100K_people_per_year": 29.1, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Kyrgyzstan", 
+      "fatalities_100K_mv_per_year": 127.3, 
+      "fatalities_100K_people_per_year": 15.4, 
+      "year": 2018
+    }, 
+    {
+      "country_name": "Cambodia", 
+      "fatalities_100K_mv_per_year": 107.2, 
+      "fatalities_100K_people_per_year": 17.4, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Kiribati", 
+      "fatalities_100K_mv_per_year": 86.9, 
+      "fatalities_100K_people_per_year": 2.9, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Korea, Republic of", 
+      "fatalities_100K_mv_per_year": 19.4, 
+      "fatalities_100K_people_per_year": 9.8, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "Kuwait", 
+      "fatalities_100K_mv_per_year": 34.2, 
+      "fatalities_100K_people_per_year": 18.7, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Lao People's Democratic Republic", 
+      "fatalities_100K_mv_per_year": 67.5, 
+      "fatalities_100K_people_per_year": 14.3, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Lebanon", 
+      "fatalities_100K_mv_per_year": 64.8, 
+      "fatalities_100K_people_per_year": 8.9, 
+      "year": 2019
+    }, 
+    {
+      "country_name": "Liberia", 
+      "fatalities_100K_mv_per_year": null, 
+      "fatalities_100K_people_per_year": 35.9, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "Libya", 
+      "fatalities_100K_mv_per_year": 46.3, 
+      "fatalities_100K_people_per_year": 26.1, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "Saint Lucia", 
+      "fatalities_100K_mv_per_year": 2103.3, 
+      "fatalities_100K_people_per_year": 18.1, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Sri Lanka", 
+      "fatalities_100K_mv_per_year": 70.9, 
+      "fatalities_100K_people_per_year": 17.4, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Lesotho", 
+      "fatalities_100K_mv_per_year": 474.8, 
+      "fatalities_100K_people_per_year": 28.2, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Lithuania", 
+      "fatalities_100K_mv_per_year": 16.1, 
+      "fatalities_100K_people_per_year": 8.0, 
+      "year": 2018
+    }, 
+    {
+      "country_name": "Luxembourg", 
+      "fatalities_100K_mv_per_year": 7.7, 
+      "fatalities_100K_people_per_year": 5.7, 
+      "year": 2018
+    }, 
+    {
+      "country_name": "Latvia", 
+      "fatalities_100K_mv_per_year": 24.8, 
+      "fatalities_100K_people_per_year": 9.3, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Morocco", 
+      "fatalities_100K_mv_per_year": 209.0, 
+      "fatalities_100K_people_per_year": 18.0, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Monaco", 
+      "fatalities_100K_mv_per_year": null, 
+      "fatalities_100K_people_per_year": 0.0, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Moldova, Republic of", 
+      "fatalities_100K_mv_per_year": 61.8, 
+      "fatalities_100K_people_per_year": 9.7, 
+      "year": 2018
+    }, 
+    {
+      "country_name": "Madagascar", 
+      "fatalities_100K_mv_per_year": 2963.0, 
+      "fatalities_100K_people_per_year": 28.4, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Maldives", 
+      "fatalities_100K_mv_per_year": 19.5, 
+      "fatalities_100K_people_per_year": 3.5, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Mexico", 
+      "fatalities_100K_mv_per_year": 43.0, 
+      "fatalities_100K_people_per_year": 12.3, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Marshall Islands", 
+      "fatalities_100K_mv_per_year": 141.8, 
+      "fatalities_100K_people_per_year": 5.7, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "North Macedonia", 
+      "fatalities_100K_mv_per_year": 49.1, 
+      "fatalities_100K_people_per_year": 6.4, 
+      "year": 2018
+    }, 
+    {
+      "country_name": "Mali", 
+      "fatalities_100K_mv_per_year": 1352.5, 
+      "fatalities_100K_people_per_year": 25.6, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Malta", 
+      "fatalities_100K_mv_per_year": 6.8, 
+      "fatalities_100K_people_per_year": 6.1, 
+      "year": 2018
+    }, 
+    {
+      "country_name": "Myanmar", 
+      "fatalities_100K_mv_per_year": 250.8, 
+      "fatalities_100K_people_per_year": 20.3, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Montenegro", 
+      "fatalities_100K_mv_per_year": 31.7, 
+      "fatalities_100K_people_per_year": 10.7, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "Mongolia", 
+      "fatalities_100K_mv_per_year": 88.4, 
+      "fatalities_100K_people_per_year": 16.5, 
+      "year": 2018
+    }, 
+    {
+      "country_name": "Mozambique", 
+      "fatalities_100K_mv_per_year": 1507.0, 
+      "fatalities_100K_people_per_year": 31.6, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Mauritania", 
+      "fatalities_100K_mv_per_year": 228.7, 
+      "fatalities_100K_people_per_year": 24.5, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Mauritius", 
+      "fatalities_100K_mv_per_year": 35.6, 
+      "fatalities_100K_people_per_year": 12.2, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Malawi", 
+      "fatalities_100K_mv_per_year": null, 
+      "fatalities_100K_people_per_year": 31.0, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "Malaysia", 
+      "fatalities_100K_mv_per_year": 29.8, 
+      "fatalities_100K_people_per_year": 23.6, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "Namibia", 
+      "fatalities_100K_mv_per_year": 196.4, 
+      "fatalities_100K_people_per_year": 23.9, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Niger", 
+      "fatalities_100K_mv_per_year": 1491.1, 
+      "fatalities_100K_people_per_year": 26.4, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Nigeria", 
+      "fatalities_100K_mv_per_year": 615.4, 
+      "fatalities_100K_people_per_year": 20.5, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Nicaragua", 
+      "fatalities_100K_mv_per_year": 164.3, 
+      "fatalities_100K_people_per_year": 15.3, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Netherlands", 
+      "fatalities_100K_mv_per_year": 6.0, 
+      "fatalities_100K_people_per_year": 3.8, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "Norway", 
+      "fatalities_100K_mv_per_year": 3.0, 
+      "fatalities_100K_people_per_year": 2.1, 
+      "year": 2019
+    }, 
+    {
+      "country_name": "Nepal", 
+      "fatalities_100K_mv_per_year": 399.8, 
+      "fatalities_100K_people_per_year": 17.0, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "New Zealand", 
+      "fatalities_100K_mv_per_year": 10.0, 
+      "fatalities_100K_people_per_year": 7.8, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "Oman", 
+      "fatalities_100K_mv_per_year": 85.3, 
+      "fatalities_100K_people_per_year": 25.4, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Pakistan", 
+      "fatalities_100K_mv_per_year": 283.9, 
+      "fatalities_100K_people_per_year": 14.2, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Panama", 
+      "fatalities_100K_mv_per_year": 38.4, 
+      "fatalities_100K_people_per_year": 10.0, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Peru", 
+      "fatalities_100K_mv_per_year": 99.3, 
+      "fatalities_100K_people_per_year": 13.9, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Philippines", 
+      "fatalities_100K_mv_per_year": 135.0, 
+      "fatalities_100K_people_per_year": 10.5, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Palau", 
+      "fatalities_100K_mv_per_year": 14.1, 
+      "fatalities_100K_people_per_year": 4.8, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Papua New Guinea", 
+      "fatalities_100K_mv_per_year": 1306.5, 
+      "fatalities_100K_people_per_year": 16.8, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Poland", 
+      "fatalities_100K_mv_per_year": 13.5, 
+      "fatalities_100K_people_per_year": 9.7, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "Portugal", 
+      "fatalities_100K_mv_per_year": 11.7, 
+      "fatalities_100K_people_per_year": 7.4, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "Paraguay", 
+      "fatalities_100K_mv_per_year": 114.7, 
+      "fatalities_100K_people_per_year": 20.7, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Qatar", 
+      "fatalities_100K_mv_per_year": 50.9, 
+      "fatalities_100K_people_per_year": 15.2, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Romania", 
+      "fatalities_100K_mv_per_year": 31.4, 
+      "fatalities_100K_people_per_year": 8.7, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Russian Federation", 
+      "fatalities_100K_mv_per_year": 48.1, 
+      "fatalities_100K_people_per_year": 18.0, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "Rwanda", 
+      "fatalities_100K_mv_per_year": 3521.1, 
+      "fatalities_100K_people_per_year": 32.1, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Saudi Arabia", 
+      "fatalities_100K_mv_per_year": 119.7, 
+      "fatalities_100K_people_per_year": 27.4, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Sudan", 
+      "fatalities_100K_mv_per_year": 2872.8, 
+      "fatalities_100K_people_per_year": 24.3, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Senegal", 
+      "fatalities_100K_mv_per_year": 956.4, 
+      "fatalities_100K_people_per_year": 27.2, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Singapore", 
+      "fatalities_100K_mv_per_year": 20.2, 
+      "fatalities_100K_people_per_year": 3.6, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Solomon Islands", 
+      "fatalities_100K_mv_per_year": 240.0, 
+      "fatalities_100K_people_per_year": 19.2, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Sierra Leone", 
+      "fatalities_100K_mv_per_year": 2414.2, 
+      "fatalities_100K_people_per_year": 27.3, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "El Salvador", 
+      "fatalities_100K_mv_per_year": 163.7, 
+      "fatalities_100K_people_per_year": 21.1, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "San Marino", 
+      "fatalities_100K_mv_per_year": 1.8, 
+      "fatalities_100K_people_per_year": 3.2, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Somalia", 
+      "fatalities_100K_mv_per_year": 6532.5, 
+      "fatalities_100K_people_per_year": 25.4, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "Serbia", 
+      "fatalities_100K_mv_per_year": 28.4, 
+      "fatalities_100K_people_per_year": 7.4, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "Sao Tome and Principe", 
+      "fatalities_100K_mv_per_year": 161.5, 
+      "fatalities_100K_people_per_year": 27.5, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "Suriname", 
+      "fatalities_100K_mv_per_year": 49.7, 
+      "fatalities_100K_people_per_year": 19.1, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Slovakia", 
+      "fatalities_100K_mv_per_year": 12.7, 
+      "fatalities_100K_people_per_year": 6.1, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "Slovenia", 
+      "fatalities_100K_mv_per_year": 9.5, 
+      "fatalities_100K_people_per_year": 6.4, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "Sweden", 
+      "fatalities_100K_mv_per_year": 4.6, 
+      "fatalities_100K_people_per_year": 2.8, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "Eswatini", 
+      "fatalities_100K_mv_per_year": 1667.4, 
+      "fatalities_100K_people_per_year": 24.2, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Seychelles", 
+      "fatalities_100K_mv_per_year": 43.0, 
+      "fatalities_100K_people_per_year": 8.6, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Chad", 
+      "fatalities_100K_mv_per_year": 497.0, 
+      "fatalities_100K_people_per_year": 24.1, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Togo", 
+      "fatalities_100K_mv_per_year": 3653.4, 
+      "fatalities_100K_people_per_year": 31.1, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Thailand", 
+      "fatalities_100K_mv_per_year": 60.2, 
+      "fatalities_100K_people_per_year": 32.7, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "Tajikistan", 
+      "fatalities_100K_mv_per_year": 374.9, 
+      "fatalities_100K_people_per_year": 18.1, 
+      "year": 2018
+    }, 
+    {
+      "country_name": "Turkmenistan", 
+      "fatalities_100K_mv_per_year": 107.8, 
+      "fatalities_100K_people_per_year": 14.5, 
+      "year": 2018
+    }, 
+    {
+      "country_name": "Timor-Leste", 
+      "fatalities_100K_mv_per_year": 295.8, 
+      "fatalities_100K_people_per_year": 16.6, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Tonga", 
+      "fatalities_100K_mv_per_year": 98.1, 
+      "fatalities_100K_people_per_year": 7.6, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Trinidad and Tobago", 
+      "fatalities_100K_mv_per_year": 58.9, 
+      "fatalities_100K_people_per_year": 14.1, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Tunisia", 
+      "fatalities_100K_mv_per_year": 154.4, 
+      "fatalities_100K_people_per_year": 24.4, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Turkey", 
+      "fatalities_100K_mv_per_year": 46.4, 
+      "fatalities_100K_people_per_year": 12.3, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "Taiwan, Province of China", 
+      "fatalities_100K_mv_per_year": null, 
+      "fatalities_100K_people_per_year": 12.4, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "Tanzania, United Republic of", 
+      "fatalities_100K_mv_per_year": 1073.7, 
+      "fatalities_100K_people_per_year": 32.9, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Uganda", 
+      "fatalities_100K_mv_per_year": 836.8, 
+      "fatalities_100K_people_per_year": 27.4, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Ukraine", 
+      "fatalities_100K_mv_per_year": 42.2, 
+      "fatalities_100K_people_per_year": 13.7, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "Uruguay", 
+      "fatalities_100K_mv_per_year": 19.6, 
+      "fatalities_100K_people_per_year": 13.4, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "United States", 
+      "fatalities_100K_mv_per_year": 14.2, 
+      "fatalities_100K_people_per_year": 12.4, 
+      "year": 2018
+    }, 
+    {
+      "country_name": "Uzbekistan", 
+      "fatalities_100K_mv_per_year": null, 
+      "fatalities_100K_people_per_year": 11.5, 
+      "year": 2016
+    }, 
+    {
+      "country_name": "Saint Vincent and the Grenadines", 
+      "fatalities_100K_mv_per_year": 31.7, 
+      "fatalities_100K_people_per_year": 8.2, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Viet Nam", 
+      "fatalities_100K_mv_per_year": 55.0, 
+      "fatalities_100K_people_per_year": 24.5, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Vanuatu", 
+      "fatalities_100K_mv_per_year": 300.0, 
+      "fatalities_100K_people_per_year": 16.6, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Samoa", 
+      "fatalities_100K_mv_per_year": 171.9, 
+      "fatalities_100K_people_per_year": 15.8, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Yemen", 
+      "fatalities_100K_mv_per_year": 436.6, 
+      "fatalities_100K_people_per_year": 21.5, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "South Africa", 
+      "fatalities_100K_mv_per_year": 133.9, 
+      "fatalities_100K_people_per_year": 25.1, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Zambia", 
+      "fatalities_100K_mv_per_year": 670.9, 
+      "fatalities_100K_people_per_year": 24.7, 
+      "year": 2013
+    }, 
+    {
+      "country_name": "Zimbabwe", 
+      "fatalities_100K_mv_per_year": 429.8, 
+      "fatalities_100K_people_per_year": 28.2, 
+      "year": 2013
+    }
+  ]
